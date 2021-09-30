@@ -4,6 +4,7 @@ int main(){
 	printf(" hecllo world" );
 printf("i like you");
 printf("i dont like you");
+printf("hahaha");
 	return 0;
 }
 
